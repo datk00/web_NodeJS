@@ -1,0 +1,32 @@
+{
+  "name": "web_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datk00/web_NodeJS.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs",
+    "webbasic",
+    "node"
+  ],
+  "author": "datk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datk00/web_NodeJS/issues"
+  },
+  "homepage": "https://github.com/datk00/web_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
