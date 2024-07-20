@@ -1,0 +1,5 @@
+npm init
+npm i:  express [PRO: server], 
+        nodemon [DEV: auto restart server],
+        morgan [DEV: auto recive requests from client]
+
